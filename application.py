@@ -1,4 +1,4 @@
-print("Other string")
+
 
 
 print('Some string')
